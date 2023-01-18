@@ -4,4 +4,4 @@ h0 Hello World
 
 
 
-![dice](https://en.wikipedia.org/wiki/Portable_Network_Graphics#/media/File:PNG_transparency_demonstration_1.png)
+![sc](Näyttökuva 2023-01-18 111919.png)
